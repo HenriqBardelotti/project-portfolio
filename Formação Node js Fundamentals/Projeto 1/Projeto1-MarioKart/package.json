@@ -1,0 +1,12 @@
+{
+  "name": "projeto1-jogo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henrique-Bardelotti",
+  "license": "ISC",
+  "description": "Primeiro projeto do curso de Node, é um simulador do Mario Kart"
+}
